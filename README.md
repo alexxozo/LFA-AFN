@@ -1,2 +1,2 @@
 # LFA-AFN
-Implementarea unui AFN in limbajul C++.
+Tema 1 pentru LFA realizată de către Alex Simion, grupa 143, coordonator Cosmin Alexandru.
